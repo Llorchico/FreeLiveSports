@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://Llorchico.github.io/FreeLiveSports/FreeLiveSportsTV.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Llorchico/FreeLiveSports/refs/heads/main/FreeLiveSportsTV.xml"
 #EXTINF:-1 tvg-id="6675c105dfa6f735be514aea" tvg-name="6675c105dfa6f735be514aea" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/a7426856-4b2e-401c-b4a6-29086ef9cd5b" group-title="Billiards" tvg-chno="1", Billiard TV
 https://stream.ads.ottera.tv/playlist.m3u8
 
