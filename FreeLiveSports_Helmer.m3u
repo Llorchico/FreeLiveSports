@@ -251,9 +251,6 @@ https://tracetv-tracesportstar-sportstribal.amagi.tv/hls/amagi_hls_data_tracetvA
 #EXTINF:-1 tvg-id="698298987b62c73309c5256b" tvg-name="698298987b62c73309c5256b" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3a544454-5beb-49db-87fe-898abd8a4811" group-title="Entertainment" tvg-chno="365", Cirque du Soleil
 https://amg01439-amg01439c1-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01439-amg01439c1-amgplt0201/playlist.m3u8
 
-#EXTINF:-1 tvg-id="673b785252254eb082e18520" tvg-name="673b785252254eb082e18520" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3153e0bf-1b87-470c-8959-b07a6676c152" group-title="Specialist" tvg-chno="367", The Boat Show
-https://b74b2c1067794724b288f2e6996c2dad.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheBoatShow/playlist.m3u8
-
 #EXTINF:-1 tvg-id="69faab93535be754e3bcad49" tvg-name="69faab93535be754e3bcad49" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/f6531baa-683a-4157-a880-750b0081d788" group-title="Entertainment" tvg-chno="367", That Peter Crouch Podcast
 https://stream.ads.ottera.tv/playlist.m3u8
 
