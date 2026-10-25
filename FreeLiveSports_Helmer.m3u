@@ -170,9 +170,6 @@ https://horizonsports.b-cdn.net/horizonsports-global/playlist.m3u8
 #EXTINF:-1 tvg-id="6793f38b28cc86e5b548fd1c" tvg-name="6793f38b28cc86e5b548fd1c" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ff01971a-cd73-44df-a2fb-d6b654e0fe87" group-title="Action & Extreme" tvg-chno="251", Adventure Zone Sports Network
 https://freelivesports.b-cdn.net/ssai/31/master.m3u8
 
-#EXTINF:-1 tvg-id="6849b955d58379ecd0a5371e" tvg-name="6849b955d58379ecd0a5371e" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/57d1b830-bc09-482d-ae77-afe4477aabd8" group-title="Team Sports" tvg-chno="259", DFB Play
-https://stream.ads.ottera.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="6943e94c4a975d542ea0d676" tvg-name="6943e94c4a975d542ea0d676" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ba995e95-3461-4ecd-a748-4fcc13b349f5" group-title="Spanish" tvg-chno="261", Top Barca en Espanyol
 https://amg17560-amg17560c2-freelivesports-emea-10992.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaspanish-freelivesportsemea/playlist.m3u8
 
@@ -255,7 +252,7 @@ https://linear-1312.frequency.stream/dist/freelivesports/1312/hls/master/playlis
 https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_DroneTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="670800411a95445e2203071e" tvg-name="670800411a95445e2203071e" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/9f6d504c-b4d1-433a-8bb0-a7b7c8142be9" group-title="Entertainment" tvg-chno="375", Documentary+
-https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
+https://linear-859.frequency.stream/dist/freelivesports/859/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6675bde91de4405de4d48712" tvg-name="6675bde91de4405de4d48712" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/fd143394-5285-40a8-adca-a50243e58288" group-title="Entertainment" tvg-chno="378", Popular Science
 https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8
